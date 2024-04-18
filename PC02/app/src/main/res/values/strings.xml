@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PC02</string>
+
+    <string name="matchScore">0 x 0</string>
+    <string name="matchScoreLabel">Placar da partida</string>
+    <string name="team1Label">Time 1</string>
+    <string name="team2Label">Time 2</string>
+
+    <string name="freeThrow">Lance livre</string>
+    <string name="twoPointer">2 pontos</string>
+    <string name="threePointer">3 pontos</string>
+
+    <string name="cancelBasket">Voltar lance</string>
+</resources>

@@ -1,0 +1,3 @@
+[submodule "mobapps-course"]
+	path = mobapps-course
+	url = https://github.com/andreendo/mobapps-course
