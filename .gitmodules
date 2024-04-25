@@ -1,3 +1,6 @@
 [submodule "mobapps-course"]
 	path = mobapps-course
 	url = https://github.com/andreendo/mobapps-course
+[submodule "pc03-dmovel"]
+	path = pc03-dmovel
+	url = https://github.com/matheusranzani/pc03-dmovel
