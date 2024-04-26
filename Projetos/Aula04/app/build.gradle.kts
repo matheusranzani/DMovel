@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.myapplication"
+    namespace = "com.example.aula04"
     compileSdk = 34
 
     defaultConfig {
