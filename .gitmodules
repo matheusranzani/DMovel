@@ -4,3 +4,6 @@
 [submodule "pc03-dmovel"]
 	path = pc03-dmovel
 	url = https://github.com/matheusranzani/pc03-dmovel
+[submodule "pc05_06_07_dmovel"]
+	path = pc05_06_07_dmovel
+	url = https://github.com/matheusranzani/pc05_06_07_dmovel
