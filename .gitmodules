@@ -7,3 +7,6 @@
 [submodule "pc05_06_07_dmovel"]
 	path = pc05_06_07_dmovel
 	url = https://github.com/matheusranzani/pc05_06_07_dmovel
+[submodule "Hi-KI"]
+	path = Hi-KI
+	url = https://github.com/thaleswinther/Hi-KI
