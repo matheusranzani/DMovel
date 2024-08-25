@@ -13,3 +13,6 @@
 [submodule "pc08-dmovel"]
 	path = pc08-dmovel
 	url = https://github.com/matheusranzani/pc08-dmovel
+[submodule "pc09_dmovel"]
+	path = pc09_dmovel
+	url = https://github.com/matheusranzani/pc09_dmovel
