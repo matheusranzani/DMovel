@@ -19,3 +19,6 @@
 [submodule "pc10_dmovel"]
 	path = pc10_dmovel
 	url = https://github.com/matheusranzani/pc10_dmovel
+[submodule "hiki-flutter"]
+	path = hiki-flutter
+	url = https://github.com/thaleswinther/hiki-flutter
